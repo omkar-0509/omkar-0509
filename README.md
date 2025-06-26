@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently working with Java, Python, C, JavaScript, MERN Stack
 - 🤖 I’m exploring ML, Gen AI, Cybersecurity
-- 💬 Ask me about anything [here](mailto:your-email@gmail.com)
+- 💬 Ask me about anything [here](mailto: oshewale944@gmail.com)
 
 ## 🔧 Languages and Tools
 <p>
