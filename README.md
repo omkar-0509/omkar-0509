@@ -21,8 +21,8 @@
 
 - 🔧 Currently working with **JS, Python, Java, MERN**, etc.
 - 🧠 Exploring **Machine Learning, Generative AI**, and more.
-- 💬 Ask me anything [here](mailto:oshewale944@gmail.com)! I'm happy to help.
-- 📫 Reach me at: [YOUR-EMAIL@example.com](mailto:oshewale944@gmail.com)
+- 💬 Ask me anything (mailto:oshewale944@gmail.com)! I'm happy to help.
+- 📫 Reach me at: [oshewale944@gmail.com](mailto:oshewale944@gmail.com)
 
 ---
 
