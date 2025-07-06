@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/omkar-shewal/YOUR-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:oshewale944@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -21,8 +21,8 @@
 
 - 🔧 Currently working with **JS, Python, Java, MERN**, etc.
 - 🧠 Exploring **Machine Learning, Generative AI**, and more.
-- 💬 Ask me anything [here](mailto:YOUR-EMAIL@example.com)! I'm happy to help.
-- 📫 Reach me at: [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
+- 💬 Ask me anything [here](mailto:oshewale944@gmail.com)! I'm happy to help.
+- 📫 Reach me at: [YOUR-EMAIL@example.com](mailto:oshewale944@gmail.com)
 
 ---
 
