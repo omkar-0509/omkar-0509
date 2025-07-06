@@ -1,26 +1,82 @@
-# Hey there 👋, I'm Omkar!
+<!-- README.md for your GitHub profile -->
 
-## 🚀 About Me
-- 🌱 I’m currently working with Java, Python, C, JavaScript, MERN Stack
-- 🤖 I’m exploring ML, Gen AI, Cybersecurity
-- 💬 Ask me about anything [here](mailto: oshewale944@gmail.com)
+<h1 align="center">Hey there 👋, I'm Omkar!</h1>
 
-## 🔧 Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding" width="400"/>
 </p>
 
-## 📈 GitHub Stats
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar-0509&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-0509&layout=compact&theme=dark)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-profile)
+## 👨‍💻 About Me
+
+- 🔧 Currently working with **JS, Python, Java, MERN**, etc.
+- 🧠 Exploring **Machine Learning, Generative AI**, and more.
+- 💬 Ask me anything [here](mailto:YOUR-EMAIL@example.com)! I'm happy to help.
+- 📫 Reach me at: [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Contributions
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark" alt="GitHub Activity"/>
+</p>
+
+---
+
+## 🔥 Popular Repositories
+
+- [**SIMONS-GAME**](https://github.com/YOUR-GITHUB-USERNAME/SIMONS-GAME) - JavaScript game project.
+- [**AirBnb-Full-Stack-Project**](https://github.com/YOUR-GITHUB-USERNAME/AirBnb-Full-Stack-Project) - Full-stack MERN project.
+- [**react-projects**](https://github.com/YOUR-GITHUB-USERNAME/react-projects) - Collection of React-based projects.
+
+---
+
+**⚡ Fun Fact:** I love coding while listening to lo-fi music! 🎧
+
+---
+
+<!-- Replace YOUR-GITHUB-USERNAME and other placeholders with your actual details -->
