@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/omkar-shewal/YOUR-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:oshewale944@gmail.com.com">
+  <a href="mailto:oshewale944@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -62,16 +62,8 @@
 ## 🏆 GitHub Contributions
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark" alt="GitHub Activity"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=omkar-0509&theme=react-dark" alt="GitHub Activity"/>
 </p>
-
----
-
-## 🔥 Popular Repositories
-
-- [**SIMONS-GAME**](https://github.com/YOUR-GITHUB-USERNAME/SIMONS-GAME) - JavaScript game project.
-- [**AirBnb-Full-Stack-Project**](https://github.com/YOUR-GITHUB-USERNAME/AirBnb-Full-Stack-Project) - Full-stack MERN project.
-- [**react-projects**](https://github.com/YOUR-GITHUB-USERNAME/react-projects) - Collection of React-based projects.
 
 ---
 
