@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omkar Shewale</h1>
 <h3 align="center">Creating clean, efficient code while constantly learning and building.</h3>
 
+<img align="right" alt="coding" width="400" href="![image](https://github.com/user-attachments/assets/f887bb20-3bb6-4054-9c85-7339d9612ccd)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-0509&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-0509" /> </p>
 
 - 🌱 I’m currently learning **Java, JS, Python, MERN**
