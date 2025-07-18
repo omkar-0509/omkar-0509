@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Shewale</h1>
-<h3 align="center">Creating clean, efficient code while constantly learning and building.</h3>
+<h3 align="center">💻 Passionate Developer | 🚀 Lifelong Learner | 🌱 Exploring New Technologies</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
@@ -7,13 +7,46 @@
   <img src="https://komarev.com/ghpvc/?username=omkar-0509&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-0509" />
 </p>
 
-- 🌱 I’m currently learning **Java, JS, Python, MERN STACK**  
-- 💬 Ask me about **oshewale944@gmail.com**  
-- 📫 How to reach me **oshewale944@gmail.com**
+---
+
+### ✨ **About Me**
+- 🌱 I’m currently learning **Java, JavaScript, Python, and MERN STACK**
+- 💡 I enjoy **building projects**, solving coding challenges, and learning new tech.
+- 🔭 I’m working on **personal projects and open source contributions**.
+- 💬 Ask me about **Java, MERN Stack, DSA, and Web Development**.
+- 📫 How to reach me: **oshewale944@gmail.com**
+- 🎯 **Goal:** To become a **Full-Stack Developer** and contribute to impactful projects.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 **Tech Stack I Use**
+
+#### 👨‍💻 **Languages**
+- Java, JavaScript (ES6+), C, C++, Python
+
+#### 🌐 **Frontend Development**
+- HTML5, CSS3, Bootstrap, React.js
+
+#### ⚙️ **Backend Development**
+- Node.js, Express.js
+
+#### 🗄️ **Databases**
+- MongoDB, PostgreSQL
+
+#### 🛠️ **Tools & Platforms**
+- Git & GitHub, VS Code, Postman, IntelliJ IDEA, Eclipse, Figma
+
+---
+
+### 🌟 **What I’m Currently Up To**
+✔️ Building Java-based mini projects  
+✔️ Learning MERN Stack and creating full-stack apps  
+✔️ Practicing DSA and algorithm challenges  
+✔️ Contributing to GitHub repositories  
+
+---
+
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/omkar-shewal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/omkar-shewal" height="30" width="40" />
@@ -22,7 +55,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
@@ -68,3 +101,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-0509" alt="omkar-0509" />
 </p>
+
