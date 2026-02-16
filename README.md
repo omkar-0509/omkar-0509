@@ -34,7 +34,7 @@
 - MongoDB, PostgreSQL
 
 #### 🛠️ **Tools & Platforms**
-- Git & GitHub, VS Code, Postman, IntelliJ IDEA, Eclipse, Figma
+- Git & GitHub, VS Code, Postman, IntelliJ IDE, Eclipse, PostgreSQL, Python IDLE
 
 ---
 
