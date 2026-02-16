@@ -22,10 +22,10 @@
 ### 🚀 **Tech Stack I Use**
 
 #### 👨‍💻 **Languages**
-- Java, JavaScript (ES6+), C, C++, Python
+- Java, Advanced Java, Springboot, Hibernate, C, C++, Python
 
 #### 🌐 **Frontend Development**
-- HTML5, CSS3, Bootstrap, React.js
+- HTML5, CSS3,JavaScript (ES6+), Bootstrap, React.js
 
 #### ⚙️ **Backend Development**
 - Node.js, Express.js
