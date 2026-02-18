@@ -10,7 +10,7 @@
 ---
 
 ### ✨ **About Me**
-- 🌱 I’m currently learning **Java, JavaScript, Python, and MERN STACK**
+- 🌱 I’m currently learning **Java, SpringBoot, Hibernate, Python, React, MySQL**
 - 💡 I enjoy **building projects**, solving coding challenges, and learning new tech.
 - 🔭 I’m working on **personal projects and open source contributions**.
 - 💬 Ask me about **Java, MERN Stack, DSA, and Web Development**.
