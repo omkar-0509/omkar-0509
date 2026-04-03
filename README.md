@@ -14,7 +14,7 @@
 - 💡 I enjoy **building projects**, solving coding challenges, and learning new tech.
 - 🔭 I’m working on **personal projects and open source contributions**.    
 - 💬 Ask me about **Java, Springboot, Python, SQL, Hibernate**.
-- 📫 How to reach me: **oshewale944@gmail.com**
+- 📫 How to reach me: **oshewale944@gmail.com** 
 - 🎯 **Goal:** To become a **Full-Stack Developer** and contribute to impactful projects.
 
 ---
